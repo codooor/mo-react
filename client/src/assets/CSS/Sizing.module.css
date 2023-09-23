@@ -1,0 +1,22 @@
+.pageContainer {
+  margin: 2rem;
+  padding: 3rem;
+}
+
+.paragraphSettings {
+  text-align: left;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 40%;
+}
+
+.listMargin {
+  margin: 1rem;
+}
+
+.roundImage {
+  border: 1px solid rgb(32, 29, 29);
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px rgb(53, 56, 82);
+  margin: 1rem;
+}
